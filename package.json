@@ -25,8 +25,8 @@
   },
   "homepage": "http://troolee.github.io/gridstack.js/",
   "dependencies": {
-    "jquery": "^2.2.1",
-    "jquery-ui": "^1.10.5",
+    "jquery": ">=3.6.0",
+    "jquery-ui": ">=1.12.1",
     "lodash": "^4.5.1"
   },
   "devDependencies": {
